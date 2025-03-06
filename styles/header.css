@@ -38,6 +38,8 @@ header .container {
 
 #profile p {
   text-align: justify;
+  hyphens: auto;
+  word-break: break-word;
 }
 
 #info {
