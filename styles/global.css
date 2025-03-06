@@ -28,6 +28,7 @@
 body {
   color: var(--text-color-secondary);
   background-color: var(--background-color);
+  font: var(--text);
 }
 
 a {
