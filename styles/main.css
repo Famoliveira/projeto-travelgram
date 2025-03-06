@@ -8,5 +8,5 @@ main {
 main img {
   width: 286px;
   height: 286px;
-  onject-fit: cover;
+  object-fit: cover;
 }
