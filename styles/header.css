@@ -5,6 +5,7 @@
 
 header {
   padding-block: 32px;
+  font: var(--text-md);
 }
 
 header .container {
@@ -36,7 +37,6 @@ header .container {
 }
 
 #profile p {
-  font: var(--text-md);
   text-align: justify;
 }
 
